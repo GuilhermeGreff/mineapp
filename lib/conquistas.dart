@@ -22,7 +22,7 @@ class conquistas extends StatelessWidget {
                 width: 3,
               ),
               top: BorderSide(
-                color: Colors.white70,
+                color: Colors.white,
                 width: 3,
               ),
             ),
