@@ -307,7 +307,7 @@ class conquistas3 extends StatelessWidget {
                 width: 3,
               ),
               top: BorderSide(
-                color: Colors.white,
+                color: Colors.white70,
                 width: 3,
               ),
             ),
